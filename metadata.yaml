@@ -1,0 +1,42 @@
+_repo: An-Eye-for-an-Eye_16804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "\"Only one eye for one eye\", also known as \"An eye for an eye\", or\
+  \ the law of retaliation, is the principle that a person who has injured another\
+  \ person is to be penalized to a similar degree, or in softer interpretations, the\
+  \ victim receives the [estimated] value of the injury in compensation. The intent\
+  \ behind the principle was to restrict compensation to the value of the loss.\n\
+  The principle is sometimes referred using the Latin term lex talionis or the law\
+  \ of talion. The English word talion (from the Latin talio) means a retaliation\
+  \ authorized by law, in which the punishment corresponds in kind and degree to the\
+  \ injury.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16804'
+  wikidata: Q4750003
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Revenge -- Fiction'
+title: An Eye for an Eye
+url: http://www.gutenberg.org/ebooks/16804
+wikipedia:
+- https://en.wikipedia.org/wiki/An_Eye_for_an_Eye_(novel)
